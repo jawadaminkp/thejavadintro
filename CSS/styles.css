@@ -1,0 +1,116 @@
+div {
+  background-color: #E4F9F9;
+}
+
+body {
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  margin: 0 auto 0 auto;
+  font-size: 60px;
+  font-family: 'Pacifico', cursive;
+  color: #1b262c;
+
+
+}
+
+h2{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+   color: #1f4068;
+
+}
+
+h3{
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #16213E;
+}
+.topContainer {
+
+
+  background-color: #E4F9F9;
+  position: relative;
+  padding-top: 30px;
+
+
+}
+
+.middleContainer{
+
+}
+
+.bottomContainer {
+
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.topcloud{
+  position: absolute;
+  top: 70px;
+  right: 400px;
+
+
+  }
+
+
+  p{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    margin: 0;
+  }
+  .webdev{
+    font-size: 60px;
+     color: blue;
+  }
+
+  hr {
+    border-style:none;
+    border-top-style: solid;
+    border-color: lightgrey;
+    border-width:1px;
+    background-color: #E4F9F9;
+    margin: 0;
+    height: 0.2px;
+    margin-top: 9px;
+    width: 70%;
+    margin-left: 15%;
+
+  }
+
+
+  #intro{
+    font-family: 'Caveat', cursive;
+    font-size: 38px;
+    color: #318fb5;
+
+  }
+
+  #skillsid{
+    font-family: 'Caveat', cursive;
+    font-size: 38px;
+     color: #318fb5;
+  }
+
+  h4{
+    font-family: 'Caveat', cursive;
+    font-size: 38px;
+    margin: 2px;
+    color: #318fb5;
+  }
+
+
+#footer {
+ font-family: monospace;
+ font-size: 20px;
+ color: #318fb5;
+}
